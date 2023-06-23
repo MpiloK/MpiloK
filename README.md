@@ -1,12 +1,12 @@
 # Hi there, I'm [Mpilo Khumalo][website] 👋
 
 ### About me:
-
+TBA
 
 <br />
 
 ### Connect with me:
-
+TBA
 
 <br />
 <br />
