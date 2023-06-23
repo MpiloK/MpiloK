@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there, I'm [Mpilo Khumalo][website] 👋
 
-<!--
-**MpiloK/MpiloK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Connect with me:
+[<img align="left" alt="mpilo-khumalo-b45786119 | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="mpilokhumalo1st | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="mpilozenzele0| Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="mpilokhumalo | Website" width="22px" src="./website.svg" />][website]
+
+<br />
+<br />
+
+### Languages and Tools I use:
+![R](https://img.shields.io/badge/-R-000?&logo=R)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+![MicrosoftExcel](https://img.shields.io/badge/-MicrosoftExcel-000?&logo=MicrosoftExcel)
+![julia](https://img.shields.io/badge/-julia-000?&logo=julia)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![ImageJ](https://img.shields.io/badge/-ImageJ-000?&logo=ImageJ)
+
+
+[website]: https://mpilokhumalo.com
+[twitter]: https://twitter.com/mpilokhumalo1st
+[linkedin]: https://linkedin.com/in/mpilo-khumalo-b45786119
+[gmail]: mailto:mpilozenzele0@gmail.com
